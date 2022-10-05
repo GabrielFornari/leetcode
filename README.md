@@ -1,5 +1,5 @@
-# leetcode solutions
-Solutions in C++ of problems found in leetcode.com
+# leetcode my solutions
+My solutions in C++ for problems found in leetcode.com
 
 
 | ID        | Title           | Dificulty  | My solution  |
