@@ -1,7 +1,7 @@
 # leetcode my solutions
 My solutions in C++ for problems found in leetcode.com
 
-Solutions count: 94 (-1 from #498)
+Solutions count: 98 (-1 from #498)
 
 | ID        | Title           | Difficulty  | My solution  |
 | --------- |:----------------| :----------| :-----|
@@ -10,6 +10,7 @@ Solutions count: 94 (-1 from #498)
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [HashMap; 1139ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/longestSubstringWithoutRepeatingCharacters.cpp) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Vector, 3ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/longestCommonPrefix.cpp) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [Linked List, 13ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/removeNthNodeFromEndOfList.cpp) |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Stack, 0ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/validParentheses.cpp) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [Linked List, 21ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/mergeTwoSortedLists.cpp) |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | [Linked List, 4ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/swapNodesInPairs.cpp) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Vector, 19ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/removeDuplicatesFromSortedArray.cpp) |
@@ -29,7 +30,9 @@ Solutions count: 94 (-1 from #498)
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | [Linked List, 17ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/copyListWithRandomPointer.cpp) |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [Linked List, 36ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/linkedListCycleII.cpp) |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | [Stack, 4ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/binaryTreePreorderTraversal.cpp) |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Stack, 15ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/evaluateReversePolishNotation.cpp) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [String, 23ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/reverseWordsInAString.cpp) |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [Stack, 24ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/minStack.cpp) |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | [Linked List, 58ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/intersectionOfTwoLinkedLists.cpp) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | [Vector, 6ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/twoSumII.cpp) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Vector, 113ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/rotateArray.cpp) |
@@ -73,6 +76,7 @@ Solutions count: 94 (-1 from #498)
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | Easy | [Array, 316ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/designHashMap.cpp) |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | Medium | [Linked List, 70ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/designLinkedList.cpp) |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | [Vector, 23ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/findPivotIndex.cpp) |
+| 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | [Stack, 362ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/dailyTemperatures.cpp) |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Easy | [Vector, 11ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/largestNumberAtLeastTwiceOfOthers.cpp) |
 | 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | Medium | [Queue/BFS, 1228ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/openTheLock.cpp) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | Easy | [HashSet, 3ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/jewelsAndStones.cpp) |
