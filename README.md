@@ -24,8 +24,10 @@ Solutions count: 98 (-1 from #498)
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Vector, 3ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/plusOne.cpp) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [String, 7ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/addBinary.cpp) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Vector, 7ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/mergeSortedArray.cpp) |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [Recursion, 4ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/binaryTreeInorderTraversal.cpp) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [Vector, 4ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/pascalsTriangle.cpp) |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | [Vector, 0ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/pascalsTriangleII.cpp) |
+| 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | [Recursion/DFS, 3ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/cloneGraph.cpp) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [HashMap, 78ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/singleNumber.cpp) |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | [Linked List, 17ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/copyListWithRandomPointer.cpp) |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [Linked List, 36ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/linkedListCycleII.cpp) |
@@ -44,6 +46,8 @@ Solutions count: 98 (-1 from #498)
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Vector, 98ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/minimumSizeSubarraySum.cpp) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [HashSet, 118ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/containsDuplicate.cpp) |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | [HashMap, 364ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/containsDuplicateII.cpp) |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | [Queue, 3ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/implementStackUsingQueues.cpp) |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [Stack, 0ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/implementQueueUsingStacks.cpp) |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | [Linked List, 386ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/palindromeLinkedList.cpp) |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [Queue/BFS, 1752ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/perfectSquares.cpp) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [Vector, 23ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/moveZeroes.cpp) |
@@ -57,14 +61,17 @@ Solutions count: 98 (-1 from #498)
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | [HashSet; 266ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/insertDeleteGetrandomO1.cpp) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | [String, 25ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/ransomNote.cpp) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | [HashMap, 69ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/firstUniqueCharacterInAString.cpp) |
+| 394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | [Recursion, 6ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/decodeString.cpp) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [Vector, 4ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/fizzBuzz.cpp) |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | Easy | [Vector, 6ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/thirdMaximumNumber.cpp) |
 | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | Medium | [Linked List, 12ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/flattenAMultilevelDoublyLinkedList.cpp) |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | [Vector, 61ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/findAllNumbersDisappearedInAnArray.cpp) |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | Medium | [HashMap, 484ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/4SumII.cpp) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [Vector, 77ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/maxConsecutiveOnes.cpp) |
+| 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | Medium | [Recursion, 1691ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/targetSum.cpp) |
 | 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | Medium | [Error/Copied](https://github.com/GabrielFornari/leetcode/blob/main/solutions/diagonalTraverse.cpp) |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | Easy | [String, 2ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/keyboardRow.cpp) |
+| 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | [Queue, 69ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/01Matrix.cpp) |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | [String, 69ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/reverseWordsInAStringIII.cpp) |
 | 561 | [Array Partition](https://leetcode.com/problems/array-partition/) | Easy | [Sort, 89ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/arrayPartition.cpp) |
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | Easy | [Vector, 71ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/longestHarmoniousSubsequence.cpp) |
@@ -76,10 +83,12 @@ Solutions count: 98 (-1 from #498)
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | Easy | [Array, 316ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/designHashMap.cpp) |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | Medium | [Linked List, 70ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/designLinkedList.cpp) |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | [Vector, 23ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/findPivotIndex.cpp) |
+| 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy | [Recursive, 11ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/floodFill.cpp) |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | [Stack, 362ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/dailyTemperatures.cpp) |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Easy | [Vector, 11ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/largestNumberAtLeastTwiceOfOthers.cpp) |
 | 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | Medium | [Queue/BFS, 1228ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/openTheLock.cpp) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | Easy | [HashSet, 3ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/jewelsAndStones.cpp) |
+| 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | Medium | [Stack, 14ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/keysAndRooms.cpp) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Linked List, 3ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/middleOfTheLinkedList.cpp) |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy | [Vector, 19ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/sortArrayByParity.cpp) |
 | 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | Easy | [Vector, 40ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/validMountainArray.cpp) |
@@ -103,6 +112,13 @@ Solutions count: 98 (-1 from #498)
 | 2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/) | Easy | [Vector, 6ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/ringsAndRods.cpp) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | Easy | [Vector, 7ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/minimumCostOfBuyingCandiesWithDiscount.cpp) |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | Easy | [String, 7ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/percentageOfLetterInString.cpp) |
+
+
+
+
+
+
+
 
 
 
