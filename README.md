@@ -16,6 +16,7 @@ Solutions count: 98 (-1 from #498)
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Vector, 19ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/removeDuplicatesFromSortedArray.cpp) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [Vector, 57ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/removeElement.cpp) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Medium | [String, 0ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/findTheIndexOfTheFirstOccurrenceInAString.cpp) |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Binary Search, 11ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/searchInRotatedSortedArray.cpp) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [HashSet, 20ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/validSudoku.cpp) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [HashMap, 66ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/groupAnagrams.cpp) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | [Matrix, 3ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/spiralMatrix.cpp) |
@@ -23,6 +24,7 @@ Solutions count: 98 (-1 from #498)
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [Linked List, 4ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/rotateList.cpp) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Vector, 3ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/plusOne.cpp) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [String, 7ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/addBinary.cpp) |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | [Binary Search, 3ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/sqrtx.cpp) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Vector, 7ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/mergeSortedArray.cpp) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [Recursion, 4ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/binaryTreeInorderTraversal.cpp) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [Vector, 4ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/pascalsTriangle.cpp) |
@@ -58,6 +60,7 @@ Solutions count: 98 (-1 from #498)
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | [HashSet, 8ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/intersectionOfTwoArrays.cpp) |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | [HahsMap, 17ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/intersectionOfTwoArraysII.cpp) |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Easy | [Integer, 0ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/validPerfectSquare.cpp) |
+| 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | [Binary Search, 0ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/guessNumberHigherOrLower.cpp) |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | [HashSet; 266ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/insertDeleteGetrandomO1.cpp) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | [String, 25ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/ransomNote.cpp) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | [HashMap, 69ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/firstUniqueCharacterInAString.cpp) |
@@ -79,6 +82,7 @@ Solutions count: 98 (-1 from #498)
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Medium | [Array, 65ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/designCircularQueue.cpp) |
 | 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | Medium | [Recursion, 33ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/findDuplicateSubtrees.cpp) |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | Easy | [String, 23ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/countBinarySubstrings.cpp) |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [Binary Search, 105ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/binarySearch.cpp) |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | Easy | [Array, 168ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/designHashSet.cpp) |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | Easy | [Array, 316ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/designHashMap.cpp) |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | Medium | [Linked List, 70ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/designLinkedList.cpp) |
@@ -112,9 +116,6 @@ Solutions count: 98 (-1 from #498)
 | 2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/) | Easy | [Vector, 6ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/ringsAndRods.cpp) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | Easy | [Vector, 7ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/minimumCostOfBuyingCandiesWithDiscount.cpp) |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | Easy | [String, 7ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/percentageOfLetterInString.cpp) |
-
-
-
 
 
 
