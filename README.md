@@ -1,7 +1,7 @@
 # leetcode my solutions
 My solutions in C++ for problems found in leetcode.com
 
-Solutions count: 98 (-1 from #498)
+Solutions count: 111 (-1 from #498)
 
 | ID        | Title           | Difficulty  | My solution  |
 | --------- |:----------------| :----------| :-----|
