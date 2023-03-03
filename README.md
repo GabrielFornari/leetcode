@@ -65,6 +65,7 @@ Solutions count: 111 (-1 from #498)
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | [String, 25ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/ransomNote.cpp) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | [HashMap, 69ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/firstUniqueCharacterInAString.cpp) |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | [Recursion, 6ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/decodeString.cpp) |
+| 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | Hard | [Binary Search, 0ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/splitArrayLargestSum.cpp) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [Vector, 4ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/fizzBuzz.cpp) |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | Easy | [Vector, 6ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/thirdMaximumNumber.cpp) |
 | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | Medium | [Linked List, 12ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/flattenAMultilevelDoublyLinkedList.cpp) |
@@ -116,8 +117,6 @@ Solutions count: 111 (-1 from #498)
 | 2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/) | Easy | [Vector, 6ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/ringsAndRods.cpp) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | Easy | [Vector, 7ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/minimumCostOfBuyingCandiesWithDiscount.cpp) |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | Easy | [String, 7ms](https://github.com/GabrielFornari/leetcode/blob/main/solutions/percentageOfLetterInString.cpp) |
-
-
 
 
 
